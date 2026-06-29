@@ -1,48 +1,93 @@
-# 💫 About Me
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR6bnVkcWVhYzVuejdraDB1YjhtZ3JyY2QydmEzbXI1MTY1dzNmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRj99a68ZhhIrHReGc/giphy.gif" width="100%" alt="Coding Banner">
+</p>
 
-🚀 Currently sharpening my frontend development skills by building real-world projects with modern web technologies.  
-🎓 Undergraduate student pursuing a BS in Computer Science (BSCS).  
-🌱 Continuously learning modern web technologies and full-stack development.
-👯 Open to collaborating on open-source projects.  
-📫 Reach me at batoolmazhar5@gmail.com  
-⚡ Fun fact: I enjoy turning problems into code-based solutions.
+<h1 align="center">Hi 👋, I'm Batool Mazhar</h1>
+
+<h3 align="center">
+Frontend Developer | BSCS Student | Aspiring MERN Stack Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;BSCS+Student;Aspiring+MERN+Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-# 💻 Tech Stack
+<img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR6bnVkcWVhYzVuejdraDB1YjhtZ3JyY2QydmEzbXI1MTY1dzNmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRj99a68ZhhIrHReGc/giphy.gif">
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+# 🙋 About Me
+
+- 🚀 Currently sharpening my frontend development skills by building real-world projects with modern web technologies.
+- 🎓 Undergraduate student pursuing a **Bachelor's in Computer Science (BSCS)**.
+- 🌱 Currently learning **Modern Web Development** and building **Full-Stack Applications with the MERN Stack**.
+- 👯 Open to collaborating on **Open Source Projects**.
+- 📫 Reach me at **batoolmazhar5@gmail.com**
+- ⚡ Fun fact: I enjoy turning problems into code-based solutions.
+
+---
+
+# 💻 Technologies & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,bootstrap,git,github,figma,supabase,vscode,netlify" />
+
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Batoolmazhar20&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<p align="center">
 
-![](https://streak-stats.demolab.com/?user=Batoolmazhar20&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Batoolmazhar20&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Batoolmazhar20&theme=dark&hide_border=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Batoolmazhar20&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batoolmazhar20&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Batoolmazhar20&theme=radical&no-frame=true&no-bg=true)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Batoolmazhar20&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🚀 Featured Projects
 
-![](https://github-contributor-stats.vercel.app/api?username=Batoolmazhar20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 📝 Post App
+- 🔐 Authentication System
+- 🌐 Responsive Landing Pages
+- 🎨 Portfolio Website
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Batoolmazhar20&label=Profile%20Views&color=0e75b6&style=flat)
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/linkwithbatool">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:batoolmazhar5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Batoolmazhar20&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
