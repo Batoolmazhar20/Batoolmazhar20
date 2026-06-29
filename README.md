@@ -59,21 +59,18 @@ Frontend Developer • BSCS Student • Aspiring MERN Stack Developer
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/linkwithbatool/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="www.linkedin.com/in/linkwithbatool">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=batoolmazhar5@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-<a href="mailto:batoolmazhar5@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/Batoolmazhar20">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
+  <a href="https://github.com/Batoolmazhar20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
-
 ---
 
 <p align="center">
