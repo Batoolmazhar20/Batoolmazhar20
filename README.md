@@ -33,7 +33,7 @@ Frontend Developer • BSCS Student • Aspiring MERN Stack Developer
 # 💻 Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,bootstrap,git,github,figma,supabase,vscode,netlify&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,github,figma,supabase,vscode,netlify&perline=6"/>
 </p>
 
 ---
