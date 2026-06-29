@@ -16,8 +16,7 @@ Frontend Developer • BSCS Student • Aspiring MERN Stack Developer
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR6bnVkcWVhYzVuejdraDB1YjhtZ3JyY2QydmEzbXI1MTY1dzNmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRj99a68ZhhIrHReGc/giphy.gif">
-
+<img align="right" width="350" src="https://media.giphy.com/media/XRj99a68ZhhIrHReGc/giphy.gif">
 ## 🙋 About Me
 
 - 🚀 Currently sharpening my frontend development skills by building real-world projects with modern web technologies.
