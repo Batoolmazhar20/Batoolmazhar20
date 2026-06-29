@@ -2,9 +2,9 @@
 
 🚀 Currently sharpening my frontend development skills by building real-world projects with modern web technologies.  
 🎓 Undergraduate student pursuing a BS in Computer Science (BSCS).  
-🌱 Currently learning **TypeScript**, **Supabase**, and modern frontend development.  
+🌱 Continuously learning modern web technologies and full-stack development.
 👯 Open to collaborating on open-source projects.  
-📫 Reach me at **batoolmazhar5@gmail.com**  
+📫 Reach me at batoolmazhar5@gmail.com  
 ⚡ Fun fact: I enjoy turning problems into code-based solutions.
 
 ---
